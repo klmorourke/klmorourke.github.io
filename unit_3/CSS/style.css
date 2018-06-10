@@ -1,0 +1,63 @@
+*{
+	padding: 0;
+	margin:0;
+}
+
+
+body {
+	font-family: Gotham, sans-serif;
+	font-size: 16px;
+	line-height: 3;
+	background: url("0896.jpg");
+}
+
+
+header {
+	background-color: #ffffff;
+	padding: 3px;
+	text-align: left;
+}
+
+aside {
+	float: right;
+	color: #222222;
+}
+
+a {
+	color: #FFFFFF;
+	text-decoration: none;
+	font-family: Gotham;
+}
+
+h1 {
+	color: #222222;
+	font-size: 32px;
+}
+
+p {
+	font-color: #222222;
+}
+
+li {
+	display: block;
+}
+
+.image {
+	position:relative;
+	width:100%;
+}
+
+.menu {
+	position:absolute;
+	top: 100px;
+	padding-left: 10px;
+}
+
+.topmenu {
+	float: right;
+}
+
+
+
+
+
