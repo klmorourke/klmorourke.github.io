@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Song+Myung');
+
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+
+}
+
+main {
+	width: cover;
+	height: cover;
+	padding-bottom: 800px;
+	background-image: url(../imgs/background_img.jpg);
+	background-size: cover;
+	background-attachment: scroll;
+	font-family: gotham;
+}
+
+/*@font-face {
+	font-family: Gotham;
+	src: url("gotham/gothammedium.ttf");
+}*/
+
+header {
+	margin: 10px;
+	background-color: #FFED74;
+	font-family: gotham;
+	vertical-align: middle;
+}
+
+h1 {
+	color: #222222;
+	font-size: 32px;
+	font-family: Gotham, sans-serif;
+	text-align: right;
+	vertical-align: middle;
+}
+
+a {
+	color: #fff;
+	text-decoration: none;
+}
+
+nav {
+	background-color: none;
+	padding-top: 20px;
+	font-family: gotham;
+}
+
+li a {
+	line-height: 40px;
+}
+
+section {
+	width:100%;
+	height:100%;
+	float: left;
+	padding: 0;
+	margin: 0;
+	background-color: #FFE2B8;
+}
+
+aside {
+	float: right;
+}
+
+footer {
+	background: #cfcfcf;
+	padding: 20px 20px 20px 20px;
+	height: 200px;
+	clear: both;
+}
+
+footer p {
+	float:left;
+	font-family: gotham;
+}
+
+#nav_one {
+	float: right;
+}
+
+#nav_two {
+	color: #222222;
+	display: block;
+	padding-top: 100px;
+
+}
+
+#nav_three {
+	padding-top: 200px;
+	color: #222222;
+	float: right;
+}
+
+#p_footer {
+	padding-top: 4px;
+	font-weight: bold;
+	font-size: 24px;
+	color: white;
+}

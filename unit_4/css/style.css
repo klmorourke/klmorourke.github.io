@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Song+Myung');
+
+* {
+	padding: 0;
+	margin:0;
+}
+
+body {
+	font-size: 16px;
+	line-height: 3;
+	background: url("0896.jpg");
+}
+
+header {
+	padding: 40px;
+	background-color: #ffffff;
+	text-align: left;
+	font-family: Gotham, sans-serif;
+}
+
+main {
+	width: 1080px;
+}
+
+h1 {
+	color: #222222;
+	font-size: 32px;
+	font-family: Gotham, sans-serif;
+	text-align: right;
+}
+
+a {
+	color: #fff;
+	text-decoration: none;
+}
+
+h2 {
+	color: #fff;
+	background-color: #222;
+	font-size: 24px;
+	text-align: right;
+	font-family: Gotham, sans-serif;
+}
+
+h3 {
+	color: #fff;
+	font-size: 24px;
+	text-align: right;
+	font-family: gotham, sans-serif;
+}
+
+p {
+	color: #222222;
+}
+
+li a {
+	display: block;
+    list-style: none
+}
+
+h4 {
+	text-align: center;
+}
+
+footer {
+	background: #cfcfcf;
+	padding: 0 20px 20px 20px;
+}
+
+
+.image {
+	margin: 0 auto;
+	width:100%;
+}
+
+#bottomblock {
+	background-color: #222;
+}
+
+#nav_one {
+	top: 200px;
+	padding-left: 10px;
+}
+
+#nav_two {
+	color: #222222;
+	text-align: right;
+	display: inline-block;
+}
+
+#nav_three {
+	color: #222222;
+	text-align: right;
+}
+
+.collection {
+	position:relative;
+	width:100%;
+}
+
+#background {
+	display: block;
+	margin: 0 auto;
+}
+
+#newsletter {
+	color: #222222;
+	font-family: Gotham, sans-serif;
+	font-size: 12px;
+}
+
+#email {
+	color: white;
+	font-family: Gotham, sans-serif;
+	font-size: 12px;
+	text-decoration: underline;
+}
+
+
+
+
+

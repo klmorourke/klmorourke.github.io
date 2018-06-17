@@ -13,6 +13,9 @@ body {
 	background: url("0896.jpg");
 }
 
+div {
+	margin: 0 auto;
+}
 
 header {
 	background-color: #ffffff;
@@ -73,9 +76,9 @@ li, ul {
 .tagline {
 	padding: 6px;
 }
-.image {
-	position:relative;
-	width:100%;
+
+#image {
+	margin: 0 auto;
 }
 
 .sidemenu {
@@ -89,8 +92,9 @@ li, ul {
 }
 
 .collection {
-	position:relative;
-	width:100%;
+	border-width: 10px;
+	margin: 0 auto;
+	padding: 10px;
 }
 
 #footermenu {
